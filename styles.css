@@ -1,5 +1,6 @@
 .book{
-	border: 1px solid black;
+	border: 1px solid gray;
+	bottom:10px;
 	
 }
 .book-name{
